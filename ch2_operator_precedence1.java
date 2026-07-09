@@ -7,7 +7,7 @@ public class ch2_operator_precedence {
         3/3=1
         30+1=31
          */
-        int b = 60/5-3*5;
+        int b = 40/5-3*5;
         /*
         this is associativity    
         12-3*5
