@@ -34,7 +34,7 @@ public class practise_set {
 
 //Question 5 the number integer or not
 System.out.println("Enter the number");
-Scanner sc = new Scanner(System.in);
+Scanner sc = new Scanner(System.in);      
 System.out.println(sc.hasNextInt());
 }
 }
