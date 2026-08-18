@@ -3,7 +3,7 @@ public class ch2_operators {
         int a = 4; //arithmatic operator
      //   int b = 6 % a; //modulo operator
     //assignment operator
-     double b = 8.5;
+     int b = 8;
      b += 3;
         System.out.println(b);
         System.out.println(2<=5); //comparasion opertor
